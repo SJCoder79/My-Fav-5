@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-image: linear-gradient(to right,green,blue)
+}
+a{
+    color: red;
+    font-family: sans-serif;
+}
+h1{
+    font-family: monospace;
+    color: darkmagenta;
+}
+.a2{
+    color: darkgreen;
+}
